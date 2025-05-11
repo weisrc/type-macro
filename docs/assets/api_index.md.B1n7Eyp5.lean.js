@@ -1,0 +1,1 @@
+import{_ as a,c as t,o,ag as r}from"./chunks/framework.fdeNJTK-.js";const p=JSON.parse('{"title":"Documentation","description":"","frontmatter":{},"headers":[],"relativePath":"api/index.md","filePath":"api/index.md"}'),i={name:"api/index.md"};function n(c,e,s,d,l,m){return o(),t("div",null,e[0]||(e[0]=[r("",3)]))}const u=a(i,[["render",n]]);export{p as __pageData,u as default};
